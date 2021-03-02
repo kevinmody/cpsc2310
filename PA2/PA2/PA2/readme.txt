@@ -1,0 +1,3 @@
+This is assignment was very fun. There are some stuff I felt it was easy and fun. The problems that i encountered was the one with storing characters in an array, converting ascii to binary, and using & operator for the binary output in file. 
+I solved some of the problems regarding to storing characters in an array, converting ascii to binary, asking TAs help and their insights on my code, reading certain file pointer codes online at geeksforgeeks.com.
+This assignment is not that hard but it is challenging but it kind of help with better understanding of file pointer. 
